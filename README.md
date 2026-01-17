@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🎮 [Proje İsmi: Örn. Retro Tech Reviver]
+# 🎮 Unity Games
 
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
