@@ -32,12 +32,6 @@ Proje, **SOLID** prensiplerine sadık kalınarak ve **performans optimizasyonu**
 * **Reklam Entegrasyonu:** AdMob (Banner, Interstitial ve Rewarded) entegrasyonu.
 * **Veri Yönetimi:** JSON/PlayerPrefs tabanlı kayıt sistemi.
 
-## 📸 Ekran Görüntüleri / Demo
-
-| Ana Menü | Oynanış | İnşa Modu |
-|:---:|:---:|:---:|
-| ![Menu](https://via.placeholder.com/200x400?text=Menu) | ![Gameplay](https://via.placeholder.com/200x400?text=Gameplay) | ![Build](https://via.placeholder.com/200x400?text=Build) |
-
 ## 🛠️ Kullanılan Teknolojiler & Kütüphaneler
 * **Motor:** Unity 6000.3.0f1
 * **Dil:** C#
